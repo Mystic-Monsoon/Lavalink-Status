@@ -1,4 +1,4 @@
-# Lavalink-Status
+# Lavalink Status
 
 # How to use the code?
 Fill in the confi.json.
