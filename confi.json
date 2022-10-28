@@ -1,0 +1,12 @@
+{
+    "token": "MTAzNDE0NDQ0NzY3NzU5OTgwNA.GZc0M2.rY1wZpDh0d9jh2WVnl9wJmO6uxXCCtv0h-bi4g",
+    "channelId": "1026808752894124093",
+    "nodes": [
+        {
+            "identifier": "Premium Node",
+            "host": "lava.link",
+            "port": 80,
+            "password": "lava"
+        }
+    ]
+}
